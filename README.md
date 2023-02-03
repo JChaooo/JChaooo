@@ -1,4 +1,4 @@
-- 👋 你好，我是@Jc-Meet
+- 👋 你好，我是@JChaooo
 - 👀 我正在学习Rust和Web前端
 - 📧 可以联系我的邮箱：jcmeet@outlook.com
 - 🀄 我的爱好是：打麻将~
